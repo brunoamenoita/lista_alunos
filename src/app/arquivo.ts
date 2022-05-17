@@ -33,5 +33,11 @@ export const LISTAGEM: Lista[] = [
     ru: '4025878',
     curso: 'Nutrição',
     dataNasc: '07/04/1980'
+  },
+  {
+    nome: 'Cristiano Nascimento',
+    ru: '2076871',
+    curso: 'Jornalismo',
+    dataNasc: '29/09/1999'
   }
 ];
